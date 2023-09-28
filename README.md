@@ -26,9 +26,9 @@ Being a community member the user can have the benefit of getting loan approvals
 # Contribution
 In order to contribute to this repository the user must follow the contribution guidelines.
 
-You can view them at [here](https://github.com/yashbhardwaj03/rps-finance/docs/contribution_guidelines.md)
+You can view them at [here](https://github.com/yashbhardwaj03/rps-finance/blob/main/docs/contribution_guidelines.md)
 
 # Progress
 You can view the work progress at
- - [Frontend](https://github.com/yashbhardwaj03/rps-finance/docs/frontend/work_progress.md)
- - [Backend](https://github.com/yashbhardwaj03/rps-finance/docs/backend/work_progress.md)
+ - [Frontend](https://github.com/yashbhardwaj03/rps-finance/blob/main/docs/frontend/work_progress.md)
+ - [Backend](https://github.com/yashbhardwaj03/rps-finance/blob/main/docs/backend/work_progress.md)

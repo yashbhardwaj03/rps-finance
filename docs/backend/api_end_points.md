@@ -3,7 +3,7 @@
  request Type
  input format
  cookies
- response format
+ response format (A rough format for the idea of the programmer)
  ```
     Eg. 
         Endpoint : user/loggedIn
@@ -14,4 +14,13 @@
  ```
 
 # Base Url
-`http://localhost:8000/v1/api/`
+`http://localhost:8000/api/v1/`
+
+# End Points
+```
+Endpoint : testing
+request Type : GET, POST
+input format : Any
+cookies : True (For GET)
+response format : {result, request}
+```

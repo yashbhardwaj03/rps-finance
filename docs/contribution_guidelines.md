@@ -1,6 +1,6 @@
 # Table of Contents
- - [Frontend] (#Frontend)
- - [Backend] (#Backend)
+ - [Frontend](#Frontend)
+ - [Backend](#Backend)
 
 # Frontend
  - The code must contains the proper comments so as to improve the readability

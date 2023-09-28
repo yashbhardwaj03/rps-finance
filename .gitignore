@@ -5,8 +5,11 @@ VirtualEnv/
 ## Py cache
 __pycache__/
 
-## Pytho default database
+## Python default database
 db.sqlite3
+
+## Python database migrations
+migrations/
 
 ## Files
 .pyc
